@@ -37,7 +37,7 @@ botbuilder-azure==4.8.0
 botbuilder-core==4.8.0
 botbuilder-dialogs==4.8.0
 botbuilder-schema==4.8.0
-botframework-connector==4.8.0
+botframework-connector==4.8.1
 boto==2.49.0
 botocore==1.15.40
 Bottleneck==1.2.1
